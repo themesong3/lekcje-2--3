@@ -1,0 +1,14 @@
+#a
+print(15+18)
+#c
+print(7//2)
+#d
+print(48%5)
+#e
+print((8+7+4+2)/4)
+#f
+print(2**10)
+#g
+print(49**(1/2))
+#h
+print(80*0.25)
